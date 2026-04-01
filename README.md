@@ -110,7 +110,3 @@ This Recruitment Dashboard provides a comprehensive analysis of hiring trends, r
 For suggestions, improvements, or collaboration opportunities, feel free to connect at https://www.linkedin.com/in/ashwitha-gogikar-35839a1b5/
 
 ---
-
-⭐ *If you found this project helpful, consider giving it a star!*
-
-If you'd like, I can also combine both dashboards into a single portfolio README or add GitHub badges and visuals.
